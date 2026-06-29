@@ -82,4 +82,4 @@ streamlit run main.py
 
 ## 👤 Author
 
-Aditya Gahlan — linkedin.com/in/aditya-gahlan-321749390 — github.com/adityagahlan-lab
+Aditya Gahlan

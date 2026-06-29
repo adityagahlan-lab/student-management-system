@@ -2,7 +2,7 @@
 
 A CRUD-based student record management app, originally built as a Python CLI tool with SQLite, later rebuilt as an interactive Streamlit web app with added analytics and bulk data tools.
 
-🔗 **Live Demo:** [add your Streamlit Cloud link here]
+🔗 **Live Demo:** https://student-management-system-j7yc3xtmee6bt4kqqkshan.streamlit.app
 💻 **Source:** https://github.com/adityagahlan-lab/student-management-system
 
 ---
